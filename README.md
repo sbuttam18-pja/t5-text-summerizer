@@ -254,7 +254,7 @@ This project provided practical experience in:
 
 Aspiring AIML engineer 
 
-- GitHub: [@buttam18-pja](https://github.com/buttam18-pja)
+- GitHub: [@sbuttam18-pja](https://github.com/buttam18-pja)
 
 ## 📜 License
 
