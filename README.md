@@ -252,7 +252,7 @@ This project provided practical experience in:
 
 **Uttam SB**
 
-Information Science Engineering Student
+Aspiring AIML engineer 
 
 - GitHub: [@buttam18-pja](https://github.com/buttam18-pja)
 
