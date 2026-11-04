@@ -1,0 +1,32 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+ 
+# Environment variables and secrets
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+<<<<<<< HEAD
+# Logs
+*.log
+=======
+saved_summary_model/
+# Logs
+*.log
+>>>>>>> origin/main
