@@ -205,4 +205,59 @@ POST /summarize/
 }
 ```
 
-*Note: The endpoint, request fields, and response structure should match the implementation in
+*Note: The endpoint, request fields, and response structure should match the implementation in `app.py`.*
+
+## 📓 Model Training Notebook
+
+The model training notebook is available in:
+
+```text
+notebook/Text_summarizer.ipynb
+```
+
+It contains the workflow for:
+
+- Loading the pretrained T5 model and tokenizer.
+- Preparing the summarization dataset.
+- Tokenizing input and target text.
+- Fine-tuning the Transformer model.
+- Saving the trained model and tokenizer.
+- Preparing the model for application integration.
+
+## 🔮 Future Improvements
+
+- Improve summarization quality through additional fine-tuning.
+- Evaluate model performance using ROUGE metrics.
+- Add PDF and TXT document upload support.
+- Implement configurable summary lengths.
+- Improve handling of longer input documents.
+- Optimize model inference speed and memory usage.
+- Improve the frontend user experience.
+- Deploy the application to a cloud platform.
+
+## 🎯 Learning Outcomes
+
+This project provided practical experience in:
+
+- Fine-tuning Transformer models for NLP tasks.
+- Understanding the T5 architecture.
+- Using Hugging Face Transformers and PyTorch.
+- Preparing text for NLP model training.
+- Saving and loading fine-tuned models.
+- Building backend APIs using FastAPI.
+- Integrating ML models with web applications.
+- Developing frontend interfaces using HTML, CSS, and JavaScript.
+
+## 👨‍💻 Author
+
+**Uttam SB**
+
+Information Science Engineering Student
+
+- GitHub: [@buttam18-pja](https://github.com/buttam18-pja)
+
+## 📜 License
+
+This project is intended for educational and learning purposes.
+
+The pretrained model, dataset, and third-party libraries used in this project are subject to their respective licenses.
